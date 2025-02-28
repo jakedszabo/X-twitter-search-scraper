@@ -1,6 +1,8 @@
 # twitterssearchscraper
 This X (formerly known as Twitter) search scraper uses Selenium to extract the content, dates, and views of an X search.
 
+This code is functioning as of 2/27/2025, the CSS and XPath selectors may change in the future on X.
+
 Users require the latest version of Python, a code editor such as Visual Code Studio, and a Windows system. 
 
 To Run:
