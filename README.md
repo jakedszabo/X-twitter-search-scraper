@@ -7,9 +7,9 @@ Users require the latest version of Python, a code editor such as Visual Code St
 
 To Run:
 
-1. Open a powershell window by holding shift and left-clicking on the desktop.
+1. Open a PowerShell window by holding shift and left-clicking on the desktop.
 2. Click "Open PowerShell window here."
-3. Install all dependencies by typing pip install in the PowerShell Window followed by the dependency name.
+3. Install all dependencies by typing pip install in the PowerShell Window, followed by the dependency name.
 4. Wait for the dependency to install before repeating.
 Dependencies:
 Selenium
